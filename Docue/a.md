@@ -56,7 +56,7 @@ All has major.
 
 All is not Any.
 
-All meaning is tagged with existence of include.
+All meaning is tagged with existence of include, in relate to Any.
 
 All word has spell.
 The spell is:
