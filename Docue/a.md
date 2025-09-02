@@ -53,3 +53,9 @@ All has park mark.
 All has park cross.
 
 All has major.
+
+All is not Any.
+
+All meaning is tagged with existence of specific form.
+
+All meaning is tagged with existence of include.
