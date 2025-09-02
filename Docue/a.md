@@ -59,3 +59,9 @@ All is not Any.
 All meaning is tagged with existence of specific form.
 
 All meaning is tagged with existence of include.
+
+All word has spell.
+The spell is:
+"A" for Any Kind.
+"l" for list done.
+"l" for list refer.
